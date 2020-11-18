@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-site/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/react-site/static/js/main.e1f30bca.chunk.js",
+    "main.js.map": "/react-site/static/js/main.e1f30bca.chunk.js.map",
+    "runtime-main.js": "/react-site/static/js/runtime-main.4bb553aa.js",
+    "runtime-main.js.map": "/react-site/static/js/runtime-main.4bb553aa.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/react-site/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.900a0aed.chunk.js": "/react-site/static/js/2.900a0aed.chunk.js",
+    "static/js/2.900a0aed.chunk.js.map": "/react-site/static/js/2.900a0aed.chunk.js.map",
+    "index.html": "/react-site/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/react-site/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.7d180cbf.chunk.css.map": "/react-site/static/css/main.7d180cbf.chunk.css.map",
+    "static/js/2.900a0aed.chunk.js.LICENSE.txt": "/react-site/static/js/2.900a0aed.chunk.js.LICENSE.txt",
+    "static/media/bg-flowers.7102b96d.jpg": "/react-site/static/media/bg-flowers.7102b96d.jpg",
+    "static/media/bg-mn.18e74686.jpg": "/react-site/static/media/bg-mn.18e74686.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bb553aa.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.900a0aed.chunk.js",
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.e1f30bca.chunk.js"
+  ]
+}
